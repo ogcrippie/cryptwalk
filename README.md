@@ -22,7 +22,7 @@ If you want to comment on an article, you need a github account.
 
 The like system and the comment system do not run on the same service which is why you need separate accounts.
 
-> I like it. Keeps things interesting. 🙈 
+> I like it that way. Keeps things interesting. 🙈 
 
 ## Who is the author?
 
